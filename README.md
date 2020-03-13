@@ -11,3 +11,9 @@ This is a revised port of the RCX to the newer (2008-) wrapper architecture and 
 ## Building
 
 Run `./build.sh` from the wrapper directory.
+
+## Resources
+
+* Website: [Transterpreter for the RCX](http://transterpreter.org/platforms/rcx/)
+
+* Publication: [A Native Transterpreter for the LEGO MindStorms RCX](http://transterpreter.org/publications/#SimpsonJacobsen07)
